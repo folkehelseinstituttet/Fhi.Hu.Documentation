@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T12:32:14.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="zEnxKpg-4WDqHMpksc5l" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T12:32:49.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="FZmZitBhKhC5_UoExGkM" version="21.2.2" type="github" pages="2">
   <diagram name="Overordnet DFD" id="p1mobohHn-rAi2GdAl_f">
     <mxGraphModel dx="2954" dy="1124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -253,6 +253,597 @@
         </mxCell>
         <mxCell id="_SskfhGTbJ6wE_vmLKrL-74" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/489b27bb-14c3-4a00-80f2-0de140884c8b/content;lucidId=aDALiyf85_mt;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="_SskfhGTbJ6wE_vmLKrL-1" vertex="1">
           <mxGeometry x="898" y="391" width="36" height="36" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LOdUZQjcUQchZYQHHkqI" name="Innlesing av skjemasvar DFD">
+    <mxGraphModel dx="2954" dy="1124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-1" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;spacing=0;strokeColor=#979ea8;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;strokeWidth=0.8;lucidId=sjuIpbjJ8tgg;" vertex="1" parent="1">
+          <mxGeometry x="149" y="244" width="1279" height="407" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-2" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#979ea8;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.817;entryY=0.5;entryPerimeter=0;lucidId=qhuIYodi_nA4;" edge="1" parent="oOgTklMkpdN5fiUzHHq7-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780.16" y="178" />
+            </Array>
+            <mxPoint x="779.66" y="107" as="sourcePoint" />
+            <mxPoint x="138.997" y="178" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-3" value="FHI-MetaData Variabler" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#979ea8;fontSize=13;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-2">
+          <mxGeometry x="0.7182419484220419" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-4" value=" " style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=16;fontColor=default;align=center;spacing=0;strokeColor=#979ea8;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;strokeWidth=0.8;lucidId=SruIs7Uc65M8;" vertex="1" parent="1">
+          <mxGeometry x="149" y="659" width="1279" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-5" value=" " style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=16;fontColor=default;align=center;spacing=0;strokeColor=#979ea8;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;strokeWidth=0.8;lucidId=1ZvIHTg15KYU;" vertex="1" parent="1">
+          <mxGeometry x="149" y="1089" width="1773" height="2030" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-6" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontFamily=Aller;fontColor=#1071e5;fontStyle=1;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=butDnPpYBndo;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="814" y="314" width="160" height="453" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-7" value="Skjemasvar" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Aller;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=6TALJ8ZVi1BV;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-6">
+          <mxGeometry x="37" y="-2" width="94" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-8" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/78f315e0-aff2-4141-9fc5-e8708625da5f/content;lucidId=5tyIFB.4wu4s;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-6">
+          <mxGeometry x="45" y="21" width="33" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-9" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/489b27bb-14c3-4a00-80f2-0de140884c8b/content;lucidId=5tyIkc3ixyYn;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-6">
+          <mxGeometry x="76" y="12" width="42" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-10" value="Opprett/slett spørreskjema" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=9EMJewza1w0z;container=1;collapsible=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-6">
+          <mxGeometry x="17" y="159" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-11" value="Oppdater spørreskjema" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=9EMJewza1w0z;container=1;collapsible=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-6">
+          <mxGeometry x="19" y="306" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-12" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/6f1b0a71-315b-461a-a54c-21cab451709d/content;imageAspect=0;lucidId=kHuI0gt9AHwO;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="830" y="1114.9999999999998" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-13" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/78f315e0-aff2-4141-9fc5-e8708625da5f/content;lucidId=y3MJeYbAFq7Q;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="797" y="1134.9999999999998" width="35" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-14" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/78f315e0-aff2-4141-9fc5-e8708625da5f/content;lucidId=y3MJeYbAFq7Q;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="781" y="1660" width="35" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-15" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#f2f3f5;strokeWidth=0.8;lucidId=j4uIPEUs-TDo;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="818" y="1602" width="491" height="381" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-16" value="Motta variabelliste" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=XIvI0DdYkjBc;container=1;collapsible=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-15">
+          <mxGeometry x="18" y="90" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-17" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/5cb737f9-5483-4222-b59e-92fc2ca790d2/content;imageAspect=0;lucidId=iPuIpFzlcv0k;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="829" y="1615" width="186" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-18" value="Identifiser nye variabler" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=OQuIoe~qW0va;container=1;collapsible=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="1003" y="1692" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-19" value="Opprett nye variabel i &quot;draft&quot; mode" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=51uIJHF64Zw9;container=1;collapsible=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="1170" y="1692" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-20" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=UEvINeYJ_Oes;" edge="1" parent="oOgTklMkpdN5fiUzHHq7-5" source="oOgTklMkpdN5fiUzHHq7-18" target="oOgTklMkpdN5fiUzHHq7-19">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-21" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;lucidId=qJvIRTJRZImF;entryDx=0;entryDy=0;" edge="1" parent="oOgTklMkpdN5fiUzHHq7-5" source="oOgTklMkpdN5fiUzHHq7-16" target="oOgTklMkpdN5fiUzHHq7-18">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="991.634" y="1935.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-22" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="1542" y="1724" width="65" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-23" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://assets.streamlinehq.com/image/private/w_48,h_48,ar_1/f_auto/v1/icons/streamline-freehand-duotone/avatars/geometric-men-people/geometric-people-man-168cmn44g3kngwvrrp7tu.png?_a=ATO2BAA0;lucidId=8LvICh0D6Ibo;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-22">
+          <mxGeometry x="4" width="61" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-24" value="Datainnsamler" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#6db1ff;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=8LvI1C3f6L41;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-22">
+          <mxGeometry y="53" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-25" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=0.223;entryY=0.5;entryPerimeter=0;lucidId=nMvIq89TlwxU;" edge="1" parent="oOgTklMkpdN5fiUzHHq7-5" source="oOgTklMkpdN5fiUzHHq7-19" target="oOgTklMkpdN5fiUzHHq7-23">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-26" value="Variabler i &quot;draft&quot; mode" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-25">
+          <mxGeometry x="-0.3292" y="-2" relative="1" as="geometry">
+            <mxPoint x="95" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-27" value="Gå gjennom variabler i &quot;draft mode&quot; og editer/godkjenn" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=YMvIcCs~V6T5;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="1515" y="1842" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-28" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.531;exitY=1;exitPerimeter=0;entryX=0.5;entryY=-0.003;entryPerimeter=0;lucidId=KNvIF_A7jGO6;" edge="1" parent="oOgTklMkpdN5fiUzHHq7-5" source="oOgTklMkpdN5fiUzHHq7-24" target="oOgTklMkpdN5fiUzHHq7-27">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-29" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=-0.003;exitY=0.5;exitPerimeter=0;entryX=1.003;entryY=0.5;entryPerimeter=0;lucidId=VNvI062kabL2;" edge="1" parent="oOgTklMkpdN5fiUzHHq7-5" source="oOgTklMkpdN5fiUzHHq7-27" target="oOgTklMkpdN5fiUzHHq7-31">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-30" value="Godkjenning av variabler" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-29">
+          <mxGeometry x="0.2024" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-31" value="Endre godkjente variabler til &quot;production mode&quot;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=jPvIjWfwurk5;container=1;collapsible=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="1165" y="1842" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-32" value="Se oversikt over nye, aktive og gamle skjema" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=UVoJ~Up0RFZy;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="171" y="331" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-33" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="50" y="365" width="65" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-34" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://assets.streamlinehq.com/image/private/w_48,h_48,ar_1/f_auto/v1/icons/streamline-freehand-duotone/avatars/geometric-men-people/geometric-people-man-168cmn44g3kngwvrrp7tu.png?_a=ATO2BAA0;lucidId=BXoJ-Ym7tu-h;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-33">
+          <mxGeometry x="4" width="61" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-35" value="Datainnsamler" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#6db1ff;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=BXoJzKPy374V;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-33">
+          <mxGeometry y="53" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-36" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.817;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.517;entryPerimeter=0;lucidId=KXoJ9lss4C~E;" edge="1" parent="oOgTklMkpdN5fiUzHHq7-5" source="oOgTklMkpdN5fiUzHHq7-34" target="oOgTklMkpdN5fiUzHHq7-32">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-37" value="Opprette/slette skjema" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=E8MJE0DcNLSy;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="171" y="473" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-38" value="Aktivere/deaktivere skjema" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=aBMJzx.GrnAb;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="171" y="620" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-39" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fbf8f2;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=0.8;lucidId=sPMJhOq._0bJ;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="1209" y="595" width="159" height="434" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-40" value="SSB-Service" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Aller;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fbf8f2;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=0.8;lucidId=sPMJE3v-pMUv;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-39">
+          <mxGeometry x="24" y="2" width="113" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-41" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fbf8f2;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=0.8;lucidId=lOMJA5lvURoO;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="1191" y="625" width="159" height="434" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-42" value="HelseNorge-Service" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Aller;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fbf8f2;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=0.8;lucidId=lOMJAknUp71D;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-41">
+          <mxGeometry x="24" y="2" width="113" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-43" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#FBF8F2;strokeWidth=0.8;lucidId=2AuIZHMOxl-3;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="1174" y="654" width="159" height="434" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-44" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/949a0f1a-afce-45be-84c1-1d8e8fe27749/content;lucidId=G2hEb.Q7Dkls;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-43">
+          <mxGeometry x="63" y="37" width="36" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-45" value="Poller TSD for nye besvarelser" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=YBuI2ZZzO2UK;container=1;collapsible=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-43">
+          <mxGeometry x="19" y="120" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-46" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.mscae.general.continuous_cycle;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#979ea8;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=eCuIDAspkNLa;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-43">
+          <mxGeometry x="88" y="71" width="44" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-47" value="Send  nye besvarelser til Skjemasvar" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=.UnJjL98Q0nm;container=1;collapsible=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-43">
+          <mxGeometry x="20" y="265" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-48" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.003;exitPerimeter=0;entryX=0.49;entryY=-0.003;entryPerimeter=0;lucidId=.MMJfor1M5tG;" edge="1" parent="oOgTklMkpdN5fiUzHHq7-43" source="oOgTklMkpdN5fiUzHHq7-45" target="oOgTklMkpdN5fiUzHHq7-47">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-49" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fcfcca;strokeWidth=0.8;lucidId=XIuIiMN5OhLC;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-5">
+          <mxGeometry x="816" y="1293" width="169" height="247" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-50" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/489b27bb-14c3-4a00-80f2-0de140884c8b/content;lucidId=XIuIWRz_IW~o;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-49">
+          <mxGeometry x="89" y="35" width="42" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-51" value="Nøkler" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Aller;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=XIuIHkced9Tp;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-49">
+          <mxGeometry x="27" y="3" width="102" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-52" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/78f315e0-aff2-4141-9fc5-e8708625da5f/content;lucidId=XIuI~Txu9Tmp;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-49">
+          <mxGeometry x="42" y="33" width="42" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-53" value="Genererer nye nøkler" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=DJuI1pOuJtzd;container=1;collapsible=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-49">
+          <mxGeometry x="20" y="96" width="137" height="137.80000000000018" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-54" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="239" y="299" width="65" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-55" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://assets.streamlinehq.com/image/private/w_48,h_48,ar_1/f_auto/v1/icons/streamline-freehand-duotone/avatars/geometric-men-people/geometric-people-man-168cmn44g3kngwvrrp7tu.png?_a=ATO2BAA0;lucidId=TfuIizs7w0FP;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-54">
+          <mxGeometry x="4" width="61" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-56" value="Datainnsamler" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#6db1ff;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=TfuI.yq6-Ke-;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-54">
+          <mxGeometry y="54" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-57" value="Legger inn nye/henter eksisterende variabler" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#979ea8;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=0fuIDf5ysYQm;" vertex="1" parent="1">
+          <mxGeometry x="508" y="267" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-58" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#979ea8;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.817;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=mguIehoopiMY;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-55" target="oOgTklMkpdN5fiUzHHq7-57">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-59" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/5cb737f9-5483-4222-b59e-92fc2ca790d2/content;imageAspect=0;lucidId=HguI78KQA51j;" vertex="1" parent="1">
+          <mxGeometry x="796" y="295" width="267" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-60" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#979ea8;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;lucidId=OguIQ2c2_N5g;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-57" target="oOgTklMkpdN5fiUzHHq7-59">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-61" value="Variabler" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#979ea8;fontSize=13;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-60">
+          <mxGeometry x="0.48761070976512033" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-62" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="404" width="65" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-63" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://assets.streamlinehq.com/image/private/w_48,h_48,ar_1/f_auto/v1/icons/streamline-freehand-duotone/avatars/geometric-men-people/geometric-people-man-168cmn44g3kngwvrrp7tu.png?_a=ATO2BAA0;lucidId=khuIBMH7CaUr;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-62">
+          <mxGeometry x="4" width="61" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-64" value="Datainnsamler" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#6db1ff;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=khuI0iXmsrjk;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-62">
+          <mxGeometry y="54" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-65" value="Bygger nettskjema" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#979ea8;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=RhuIyEwXT0mY;" vertex="1" parent="1">
+          <mxGeometry x="508" y="482" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-66" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#979ea8;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;lucidId=RhuICU_4WvDB;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-65" target="oOgTklMkpdN5fiUzHHq7-68">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-67" value="FHI-MetaData Variabler" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#979ea8;fontSize=13;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-68" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/5772cc46-7886-4a4e-84ea-470c8b49c680/content;imageAspect=0;lucidId=RhuI4bv1Bq52;" vertex="1" parent="1">
+          <mxGeometry x="801" y="461" width="213" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-69" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#979ea8;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=7huIkMIDVHYR;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-64" target="oOgTklMkpdN5fiUzHHq7-65">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-70" value="Bygge spørreskjema (utenfor prosjektscope)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#979ea8;align=center;spacing=3.8;strokeColor=none;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;lucidId=jluIQ~Pg9-aC;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="247" width="273" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-71" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="244" y="722" width="65" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-72" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://assets.streamlinehq.com/image/private/w_48,h_48,ar_1/f_auto/v1/icons/streamline-freehand-duotone/avatars/geometric-men-people/geometric-people-man-168cmn44g3kngwvrrp7tu.png?_a=ATO2BAA0;lucidId=psuI59zNi0Fd;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-71">
+          <mxGeometry x="4" width="61" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-73" value="Datainnsamler" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#6db1ff;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=psuIq_7onHhM;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-71">
+          <mxGeometry y="53" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-74" value="Sender ut nettskjema til deltakere" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#979ea8;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=tsuIwLbxrK0w;" vertex="1" parent="1">
+          <mxGeometry x="513" y="690" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-75" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/6f1b0a71-315b-461a-a54c-21cab451709d/content;imageAspect=0;lucidId=RsuI~6TPox0r;" vertex="1" parent="1">
+          <mxGeometry x="801" y="696" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-76" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#979ea8;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.817;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=ZsuIyX2jcwTe;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-72" target="oOgTklMkpdN5fiUzHHq7-74">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-77" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#979ea8;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;lucidId=2suIxgyQNP.S;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-74" target="oOgTklMkpdN5fiUzHHq7-75">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-78" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#979ea8;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0.063;entryPerimeter=0;lucidId=CtuIuoSfLgsT;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-75" target="oOgTklMkpdN5fiUzHHq7-83">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-79" value="Nettskjema" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#979ea8;fontSize=13;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-78">
+          <mxGeometry x="0.6104535270309992" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-80" value="Svarer på nettskjema" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#979ea8;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=YtuIpZgfZPSx;" vertex="1" parent="1">
+          <mxGeometry x="508" y="903" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-81" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#979ea8;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.917;exitY=0.764;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=iuuI-EuHQegX;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-83" target="oOgTklMkpdN5fiUzHHq7-80">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-82" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="232" y="903" width="89" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-83" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://assets.streamlinehq.com/image/private/w_48,h_48,ar_1/f_auto/v1/icons/users/group-chat-rtyf2g3hywrb9vo9z8j2.png/group-chat-7la53pa0of23sb69amhe5.png?_a=ATO2BAA0;lucidId=mtuI6sqf4So_;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-82">
+          <mxGeometry x="7" width="76" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-84" value="Deltakere" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#6db1ff;fontStyle=1;align=left;spacing=3.8;verticalAlign=top;strokeColor=none;fillOpacity=0;fillColor=#ffffff;strokeWidth=0;lucidId=zuuIgNtRqMq.;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-82">
+          <mxGeometry y="84" width="89" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-85" value="Tjeneste for sensitive data" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Aller;fontColor=#6f7681;fontStyle=1;spacing=3.8;verticalAlign=top;strokeColor=#979ea8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=.vuIYYi.09om;container=1;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="904" y="906" width="96" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-86" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/a205625c-77f4-4559-baa6-0589df7098c5/content;imageAspect=0;lucidId=AvuIOvrq~0kz;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-85">
+          <mxGeometry x="12" y="34" width="72" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-87" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#979ea8;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.004;entryY=0.5;entryPerimeter=0;lucidId=PxuIMSQyDWxj;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-80" target="oOgTklMkpdN5fiUzHHq7-85">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-88" value="Skjemasvar" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#979ea8;fontSize=13;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-87">
+          <mxGeometry x="0.6090768006326057" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-89" value="Sende ut spørreskjema (utenfor prosjektscope)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#979ea8;align=center;spacing=3.8;strokeColor=none;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;lucidId=AzuIlYxFZSlz;" vertex="1" parent="1">
+          <mxGeometry x="1118" y="662" width="326" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-90" value="Innlasting av data " style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#4c535d;align=center;spacing=3.8;strokeColor=none;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;lucidId=k0vIuzXG35Xu;" vertex="1" parent="1">
+          <mxGeometry x="1776" y="1093" width="143" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-91" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontFamily=Aller;fontColor=#1071e5;fontStyle=1;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#FFF0F0;strokeWidth=0.8;lucidId=lsyILu5_CAue;" vertex="1" parent="1">
+          <mxGeometry x="609" y="1309" width="159" height="2217" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-92" value="Innlasting" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Aller;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=XIuIHkced9Tp;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-91">
+          <mxGeometry x="28.5" y="15" width="102" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-93" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/78f315e0-aff2-4141-9fc5-e8708625da5f/content;lucidId=5tyIFB.4wu4s;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-91">
+          <mxGeometry x="81" y="50.25" width="35" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-94" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/f4a6d068-1747-4cda-8e01-d29fd111b897/content;lucidId=duyIUWwbo5-_;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-91">
+          <mxGeometry x="39" y="25" width="39.75" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-95" value="Hent informasjon om skjema og undersøkelser&amp;nbsp;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=9EMJewza1w0z;container=1;collapsible=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-91">
+          <mxGeometry x="18.5" y="111" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-96" value="Starte/stoppe jobb som henter besvarelser" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=9EMJewza1w0z;container=1;collapsible=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-91">
+          <mxGeometry x="18.5" y="558" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-97" value="Motta nye besvarelser" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=z4nJ0DFU5LUe;container=1;collapsible=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-91">
+          <mxGeometry x="16" y="706" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-98" value="Ber om at skjema blir opprettet/slettet" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=9EMJewza1w0z;container=1;collapsible=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-91">
+          <mxGeometry x="18.5" y="253" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#4C535D;" edge="1" parent="oOgTklMkpdN5fiUzHHq7-91" source="oOgTklMkpdN5fiUzHHq7-100" target="oOgTklMkpdN5fiUzHHq7-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-100" value="Ber om at skjema blir oppdatert" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=9EMJewza1w0z;container=1;collapsible=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-91">
+          <mxGeometry x="18.5" y="400" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-101" value="Send skjemasvar til databasen" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=fUvIxE-1uFhc;container=1;collapsible=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-91">
+          <mxGeometry x="18.5" y="1889" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-102" value="Verifiserer variabler" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=SOuIwmaNRBlz;container=1;collapsible=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-91">
+          <mxGeometry x="18.5" y="1417.6" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-103" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.003;exitPerimeter=0;entryX=0.5;entryY=-0.003;entryPerimeter=0;lucidId=JTMJgFDLeNJ~;" edge="1" parent="oOgTklMkpdN5fiUzHHq7-91" source="oOgTklMkpdN5fiUzHHq7-102" target="oOgTklMkpdN5fiUzHHq7-101">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-104" value="Logger innlesing av nye skjemasvar" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=LcwI9eDNWDcz;container=1;collapsible=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-91">
+          <mxGeometry x="18.5" y="2064" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-105" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.003;exitPerimeter=0;entryX=0.5;entryY=-0.003;entryPerimeter=0;lucidId=QTMJ7UQsMbP8;" edge="1" parent="oOgTklMkpdN5fiUzHHq7-91" source="oOgTklMkpdN5fiUzHHq7-101" target="oOgTklMkpdN5fiUzHHq7-104">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-106" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/78f315e0-aff2-4141-9fc5-e8708625da5f/content;lucidId=lOnJcyT45t9l;" vertex="1" parent="1">
+          <mxGeometry x="916" y="987" width="35" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-107" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=-0.003;exitY=0.5;exitPerimeter=0;entryX=1;entryY=0.446;entryPerimeter=0;lucidId=1XnJ7u0dYAIE;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-47" target="oOgTklMkpdN5fiUzHHq7-97">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-108" value="Nye besvarelser" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-107">
+          <mxGeometry x="0.59" y="2" relative="1" as="geometry">
+            <mxPoint x="-52" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-109" value="Ber om nye nøkler for innlesing av skjemasvar" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=DIuIeoBE~Yco;container=1;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="626" y="2382.2" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-110" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;lucidId=tPuIn4R_18JI;entryDx=0;entryDy=0;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-102" target="oOgTklMkpdN5fiUzHHq7-14">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-111" value="Liste med variabler + metadata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-110">
+          <mxGeometry x="-0.6773" y="-1" relative="1" as="geometry">
+            <mxPoint x="67" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-112" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#4C535D;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-101" target="oOgTklMkpdN5fiUzHHq7-147">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="868" y="3239.6" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-113" value="Skjemasvar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-112">
+          <mxGeometry x="-0.1814" y="-1" relative="1" as="geometry">
+            <mxPoint x="69" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-114" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitX=1.003;exitY=0.5;exitPerimeter=0;lucidId=bCMJjiP4HHlo;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-32" target="oOgTklMkpdN5fiUzHHq7-95">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-115" value="skjemaoversikt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-114">
+          <mxGeometry x="-0.7231" y="-1" relative="1" as="geometry">
+            <mxPoint x="36" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-116" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="197" y="1738" width="65" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-117" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://assets.streamlinehq.com/image/private/w_48,h_48,ar_1/f_auto/v1/icons/streamline-freehand-duotone/avatars/geometric-men-people/geometric-people-man-168cmn44g3kngwvrrp7tu.png?_a=ATO2BAA0;lucidId=NCMJwD5jfCV8;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-116">
+          <mxGeometry x="4" width="61" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-118" value="Datainnsamler" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#6db1ff;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=NCMJzjSP5vT6;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-116">
+          <mxGeometry y="53" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-119" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.817;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.479;entryPerimeter=0;lucidId=SCMJC9ZYzC56;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-117" target="oOgTklMkpdN5fiUzHHq7-38">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-120" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;lucidId=cDMJ88k1RxBh;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-38" target="oOgTklMkpdN5fiUzHHq7-100">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="612" y="1710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-121" value="skjema status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-120">
+          <mxGeometry x="0.1736" y="1" relative="1" as="geometry">
+            <mxPoint x="13" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-122" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.534;entryPerimeter=0;lucidId=AGMJM7.0z2oE;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-96" target="oOgTklMkpdN5fiUzHHq7-45">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-123" value="start/stopp automatisk jobb" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-122">
+          <mxGeometry x="-0.1718" y="-1" relative="1" as="geometry">
+            <mxPoint x="247" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-124" value="Oppdater deltakere i logsitikk med &quot;har svart&quot;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=9FuIcQMg2e_u;container=1;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="626" y="2198.2" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-125" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.003;exitPerimeter=0;entryX=0.5;entryY=-0.003;entryPerimeter=0;lucidId=MSMJ2nad~Z0g;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-124" target="oOgTklMkpdN5fiUzHHq7-109">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-126" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=-0.003;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=-0.003;entryPerimeter=0;lucidId=EMuIar7aNTG9;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-53" target="oOgTklMkpdN5fiUzHHq7-102">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-127" value="Nøkkel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-126">
+          <mxGeometry x="0.7381" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-128" value="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;font-weight: bold;&quot;&gt;INNLESING AV DATA&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;ol style=&quot;margin: 0px; padding-left: 10px;list-style-position: inside; list-style-type:decimal&quot;&gt;&lt;li style=&quot;text-align:left;color:#979ea8;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#979ea8;&quot;&gt;Datainnsamler bygger nettskjema. Datainnsamler bør ha ett forhold til FHI-Metadata og FHI-kodeverk, og variablene som ligger inne her. Det er ønskelig med så mye gjenbruk av variabler som mulig (bedre integrasjon/funksjonalitet planlegges)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#979ea8;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#979ea8;&quot;&gt;Datainnsamler sender ut nettskjema med Dialog Logistikk&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#979ea8;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#979ea8;&quot;&gt;Deltakere svarer på spørreskjema og besvarelsene kommer inn til TSD&lt;/span&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Datainnsamler kan se en liste med spørreskjema i skjemasvar sin web-klient&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Datainnsamler kan legge til/endre/slette skjema i skjemasvar sin web-klient&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Datainnsamler kan aktivere/deaktivere ett skjema i skjemasvar sin web-klient. Når ett skjema blir aktivert, blir polling startet i en bakenforliggende jobb som har ansvar for kommunikasjon med skjematjenesten (feks TSD)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Når ett skjema aktiveres, lastes kodeboken ned fra TSD sammen med besvarelser. Videre blir nye besvarelser lastet ned med jevne mellomrom (polling) og sendt til skjemasvar API.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Skjemasvar leser besvarelsen(e) og oppdaterer deltaker(ene) sin status i Dialog Logistikk  til &quot;har svart&quot; på skjema&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Skjemasvar kontakter nøkkel-modulen sitt API:&lt;/span&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;font-style: italic;&quot;&gt;Gi meg nøkkel for denne deltakeren for dette skjemaet. Om det er deltakerens første besvarelse på dette skjemaet;&lt;/span&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;font-style: italic;&quot;&gt;generer ny nøkkel for denne deltakeren for dette skjemaet.&lt;/span&gt;Prosjektspesifikk nøkkel for deltaker returneres.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Skjemasvar kontakter FHI-MetaData API og sender en liste med variabler + metadata:&lt;/span&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;font-style: italic;&quot;&gt;Verifiser disse variablene&lt;/span&gt;. FHI-MetaData leter etter nye variabler i listen, og legger inn de i &quot;draft-mode&quot;. Variabler i &quot;draft-mode&quot; må oversees og godkjennes før de kan settes i &quot;production-mode&quot;.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Skjemasvar lagres til databasen (sammen med nøkkel og variabel)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Innlesing av skjemasvar logges&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=middle;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#f2f3f5;strokeWidth=0.8;lucidId=MWMJ.i~a4PCW;" vertex="1" parent="1">
+          <mxGeometry x="1435" y="244" width="736" height="585" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-129" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.34;entryPerimeter=0;lucidId=5LuIqkl2-UC7;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-109">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="978.6959999999999" y="2443.18" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-130" value="Personnummer + skjemaId" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-129">
+          <mxGeometry x="-0.6819" y="1" relative="1" as="geometry">
+            <mxPoint x="109" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-131" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1594" width="65" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-132" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://assets.streamlinehq.com/image/private/w_48,h_48,ar_1/f_auto/v1/icons/streamline-freehand-duotone/avatars/geometric-men-people/geometric-people-man-168cmn44g3kngwvrrp7tu.png?_a=ATO2BAA0;lucidId=Q_MJI5jm9DU.;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-131">
+          <mxGeometry x="4" width="61" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-133" value="Datainnsamler" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#6db1ff;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=Q_MJn36MvG~a;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-131">
+          <mxGeometry y="53" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-134" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.817;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=X_MJZypYm4og;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-132" target="oOgTklMkpdN5fiUzHHq7-37">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-135" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;lucidId=sHuIB4ZJc75R;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-124" target="oOgTklMkpdN5fiUzHHq7-13">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-136" value="Personnummer + skjemaId" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-135">
+          <mxGeometry x="0.0956" y="-1" relative="1" as="geometry">
+            <mxPoint x="5" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.006;exitY=0.172;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;strokeWidth=1;strokeColor=#4C535D;exitPerimeter=0;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-6" target="oOgTklMkpdN5fiUzHHq7-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-138" value="spørreskjema metadata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-137">
+          <mxGeometry x="-0.7394" y="-2" relative="1" as="geometry">
+            <mxPoint x="-93" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#4C535D;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-37" target="oOgTklMkpdN5fiUzHHq7-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-140" value="skjema metadata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-139">
+          <mxGeometry x="-0.1914" y="-1" relative="1" as="geometry">
+            <mxPoint x="35" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#4C535D;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-98" target="oOgTklMkpdN5fiUzHHq7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-142" value="skjema metadata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-141">
+          <mxGeometry x="-0.2928" y="-2" relative="1" as="geometry">
+            <mxPoint x="82" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#4C535D;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-100" target="oOgTklMkpdN5fiUzHHq7-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="925" y="1770" />
+              <mxPoint x="925" y="1770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-144" value="skjema status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-143">
+          <mxGeometry x="0.6559" y="-2" relative="1" as="geometry">
+            <mxPoint x="-20" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-145" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontFamily=Aller;fontColor=#1071e5;fontStyle=1;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=butDnPpYBndo;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="967" y="3106" width="159" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-146" value="Skjemasvar" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Aller;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=6TALJ8ZVi1BV;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-145">
+          <mxGeometry x="37" y="-2" width="94" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-147" value="Lagrer skjemasvar til databasen" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=fUvIxE-1uFhc;container=1;collapsible=0;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-145">
+          <mxGeometry x="23" y="92" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-148" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/78f315e0-aff2-4141-9fc5-e8708625da5f/content;lucidId=5tyIFB.4wu4s;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-145">
+          <mxGeometry x="45" y="21" width="33" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-149" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/489b27bb-14c3-4a00-80f2-0de140884c8b/content;lucidId=5tyIkc3ixyYn;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-145">
+          <mxGeometry x="76" y="12" width="42" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-150" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#4c535d;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;endArrow=block;endFill=1;exitX=1;exitY=0.333;entryX=0.465;entryY=0.002;lucidId=wCuIAQYZR13E;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="oOgTklMkpdN5fiUzHHq7-85" target="oOgTklMkpdN5fiUzHHq7-43">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1396" y="945" />
+              <mxPoint x="1396" y="947" />
+            </Array>
+            <mxPoint x="1395.5" y="1726.5" as="targetPoint" />
+            <mxPoint x="992" y="946" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-151" value="Er det komt nye skjemasvar?" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-150">
+          <mxGeometry x="-0.8734227693786525" relative="1" as="geometry">
+            <mxPoint x="70" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOgTklMkpdN5fiUzHHq7-152" value="Nye skjemasvar + kodebok" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="oOgTklMkpdN5fiUzHHq7-150">
+          <mxGeometry x="0.5287" relative="1" as="geometry">
+            <mxPoint y="161" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
