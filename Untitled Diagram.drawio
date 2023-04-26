@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T12:34:52.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xWc3c4dj-AXjBegcnHpt" version="21.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-26T12:35:22.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="aB2ggHs4kBIdO7iLzMM0" version="21.2.2" type="github" pages="5">
   <diagram name="Overordnet DFD" id="p1mobohHn-rAi2GdAl_f">
     <mxGraphModel dx="2954" dy="1124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -3486,6 +3486,609 @@
         </mxCell>
         <mxCell id="gGE1ak4zSdM042NPVG18-675" value="PregID-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#ffffff;strokeOpacity=100;fillOpacity=100;verticalAlign=middle;spacing=3.8;strokeColor=#333333;rounded=1;absoluteArcSize=1;arcSize=12;strokeWidth=0.8;fontSize=13;fontColor=#e81313;fontStyle=1;" vertex="1" parent="gGE1ak4zSdM042NPVG18-667">
           <mxGeometry y="177.2247240453631" width="164.85129322372117" height="25.317817720766158" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LHlD8IYh1rlkeh3gK0N_" name="Utlevering av skjemasvar med utvalg DFD">
+    <mxGraphModel dx="2954" dy="1124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-1" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;spacing=0;strokeColor=#979ea8;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;strokeWidth=0.8;lucidId=NF5HK.WGP0il;" vertex="1" parent="1">
+          <mxGeometry x="79" y="520" width="1057" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-2" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;strokeWidth=0.8;lucidId=NF5H.3p_kK80;" vertex="1" parent="1">
+          <mxGeometry x="79" y="77" width="1057" height="437" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-3" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;strokeWidth=0.8;lucidId=NF5HBGe~IOiK;" vertex="1" parent="1">
+          <mxGeometry x="79" y="823" width="1853" height="2065" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-4" value="nye nøkler (for uttrekket)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#333333;align=left;spacing=3.8;verticalAlign=top;strokeColor=none;fillOpacity=0;fillColor=#ffffff;strokeWidth=0;lucidId=NF5Hgx~eBdbd;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-3">
+          <mxGeometry x="707" y="1298" width="327" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-5" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;strokeWidth=0.8;lucidId=NF5HYIiGavZw;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1381" width="134" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-6" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;spacing=0;strokeColor=#979ea8;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;strokeWidth=0.8;lucidId=NF5HIMiNGws8;" vertex="1" parent="1">
+          <mxGeometry x="79" y="2895" width="1057" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-7" value="Oppretter nytt utleveringsprosjekt" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=NF5H81nVHM2B;" vertex="1" parent="1">
+          <mxGeometry x="283" y="835" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-8" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.977;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=NF5H-fl8ap8-;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-40" target="LXyVWUYfoo_TBSHkroVp-7">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-9" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.009;entryPerimeter=0;lucidId=NF5HLp~U5pgW;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-7" target="LXyVWUYfoo_TBSHkroVp-29">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-10" value="Prosjekt metadata" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-9">
+          <mxGeometry x="0.3849928731351242" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-11" value="Formidler fil med datauttrekk til forsker" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#979ea8;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=NF5HBxDqPHiv;container=1;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="142" y="2948" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-12" value="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;font-weight: bold;&quot;&gt;DATAUTLEVERING&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;ol style=&quot;margin: 0px; padding-left: 10px;list-style-position: inside; list-style-type:decimal&quot;&gt;&lt;li style=&quot;text-align:left;color:#979ea8;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#979ea8;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#979ea8;&quot;&gt;Forsker lager variabelliste på&lt;/span&gt;&lt;a href=&quot;http://HelseData.no&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#979ea8;&quot;&gt;HelseData.no&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#979ea8;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#979ea8;&quot;&gt;Forsker sender søknad m/variabelliste til HelseData.no/FHI&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#979ea8;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#979ea8;&quot;&gt;Saksbehandler vedtar søknad om utlevering og sender variabelliste til dataforvalter&lt;/span&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Dataforvalter oppretter nytt prosjekt for utlevering i uttrekks-modul&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Dataforvalter laster inn&lt;/span&gt;&lt;a href=&quot;http://variabelliste.xlsx&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;variabelliste.xlsx&lt;/span&gt;&lt;/a&gt;i uttrekks-modulen&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Dataforvalter legger inn utvalgs-kriterier tilgjengelig i Dialog Logistikk (geografisk plassering, alder, rolle, andre ting?)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Dataforvalter henter skjemasvar (feks ved å trykke på en knapp)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Uttrekks-modulen spør Dialog Logistikk API:&lt;/span&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;font-style: italic;&quot;&gt;Gi meg personer som har svart på disse skjema&#39;ene og som stemmer med disse utvalgs-kriteriene.&lt;/span&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;SkjemaId&#39;er sendes som input. En liste med personnummer returneres&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Uttrekks-modulen spør Nøkkel-modul API:&lt;/span&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;font-style: italic;&quot;&gt;Gi meg prosjektspesifikke nøkler brukt i for disse personene og for denne innsamlingen.&lt;/span&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;En liste med personnummer sendes som input + projectId. En liste med prosjektspesifikke nøkler returneres.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Uttrekks-modulen viser en deltakerliste til dataforvalter&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Dataforvalter bygger spørringer for å begrense deltakerlisten (utvalget) ytterligere&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Dataforvalter kjører spørringer til deltakerliste (utvalget) er tilfredsstillende&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Dataforvalter godkjenner deltakerlisten (utvalget) (feks ved å trykke på en knapp)&lt;/span&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Uttrekks-modulen slår opp i  Skjemasvar-modulen:&lt;/span&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;font-style: italic;&quot;&gt;Gi meg svar gitt på disse variablene av disse person-nøklene&lt;/span&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;. En liste med prosjektspesifikke nøkler og ett sett med variabler sendes som input. Spørreskjemasvar returneres.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Uttrekks-modulen ber i Nøkkel-modulen:&lt;/span&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;font-style: italic;&quot;&gt;Generer nye nøkler for disse personene og for dette uttrekket&lt;/span&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;. En liste med personnummer og ett prosjektId for uttrekket sendes inn som input. En liste over nye prosjektspesifikke nøkler returneres.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Uttrekks-modulen slår opp i FHI.Meta:&lt;/span&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;font-style: italic;&quot;&gt;Gi meg spørsmålstekst og beskrivelse for disse variablene&lt;/span&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;. En liste med variabler sendes inn som input. Metadata for variablene returneres&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Dataforvalter ser på informasjon om uttrekket som er gjort (hva er nyttig info her?)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Dataforvalter genererer uttrekks-fil (feks ved å trykke på en knapp)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Uttrekks-modulen logger utttrekket pr. person og variabel i sin egen database&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Uttrekks-modulen genererer en fil med uttrekk (format må diskuteres. Spss er vanskelig å håndtere progrematisk)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align:left;color:#333333;font-size:18.5px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:18.5px;color:#333333;&quot;&gt;Dataforvalter formidler fil med uttrekk til forsker&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=middle;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#f2f3f5;strokeWidth=0.8;lucidId=NF5H2Kqf4VAh;" vertex="1" parent="1">
+          <mxGeometry x="1147" y="77" width="785" height="738" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-13" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="1214" y="1534" width="191" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-14" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fcfcca;strokeWidth=0.8;lucidId=NF5HyM5C.xcj;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-13">
+          <mxGeometry x="47" y="8" width="98" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-15" value="Nøkler" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Aller;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=NF5HuR-PDx6R;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-14">
+          <mxGeometry x="20" width="64" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-16" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/489b27bb-14c3-4a00-80f2-0de140884c8b/content;lucidId=NF5HPS3s_zOI;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-13">
+          <mxGeometry x="77" y="85" width="38" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-17" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/78f315e0-aff2-4141-9fc5-e8708625da5f/content;lucidId=NF5H-LTQPO36;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-13">
+          <mxGeometry x="77" y="38" width="39" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-18" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="2045" width="191" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-19" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fcfcca;strokeWidth=0.8;lucidId=NF5HHMM8c5iv;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-18">
+          <mxGeometry x="47" y="8" width="98" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-20" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/489b27bb-14c3-4a00-80f2-0de140884c8b/content;lucidId=NF5HM6QIL93s;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-18">
+          <mxGeometry x="77" y="85" width="38" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-21" value="Nøkler" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Aller;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=NF5Ho6G18AHx;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-18">
+          <mxGeometry width="191" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-22" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/78f315e0-aff2-4141-9fc5-e8708625da5f/content;lucidId=NF5H_cZl0GI~;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-18">
+          <mxGeometry x="77" y="37" width="39" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-23" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontFamily=Aller;fontColor=#1071e5;fontStyle=1;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=NF5H4HN8Gxe8;" vertex="1" parent="1">
+          <mxGeometry x="1261" y="1894" width="98" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-24" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/489b27bb-14c3-4a00-80f2-0de140884c8b/content;lucidId=NF5HProSnr--;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-23">
+          <mxGeometry x="30" y="77" width="38" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-25" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/78f315e0-aff2-4141-9fc5-e8708625da5f/content;lucidId=NF5H9lj3tj2T;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-23">
+          <mxGeometry x="30" y="32" width="38" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-26" value="Skjemasvar" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Aller;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=NF5HuR-PDx6R;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-23">
+          <mxGeometry x="17" y="9" width="64" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-27" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/6f1b0a71-315b-461a-a54c-21cab451709d/content;imageAspect=0;lucidId=NF5H8S49H3yQ;" vertex="1" parent="1">
+          <mxGeometry x="1261" y="1402" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-28" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/5cb737f9-5483-4222-b59e-92fc2ca790d2/content;imageAspect=0;lucidId=NF5H86y-A0xS;" vertex="1" parent="1">
+          <mxGeometry x="1257" y="2223" width="267" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-29" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#f0f7f0;strokeWidth=0.8;lucidId=NF5HHwSP9hQ2;" vertex="1" parent="1">
+          <mxGeometry x="634" y="879" width="147" height="1977" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-30" value="Uttrekk" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Aller;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=NF5HG4h5G0r0;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-29">
+          <mxGeometry x="19" y="19" width="112" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-31" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="666" y="930" width="74" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-32" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/489b27bb-14c3-4a00-80f2-0de140884c8b/content;lucidId=NF5HgJRu44JX;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-31">
+          <mxGeometry y="62" width="55" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-33" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/f4a6d068-1747-4cda-8e01-d29fd111b897/content;lucidId=NF5HbdFhCtdp;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-31">
+          <mxGeometry x="18" width="56" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-34" value="Log datauttrekket" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=NF5HzqyPvd4y;container=1;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="648" y="2557" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-35" value="Genererer fil" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=NF5H46Ut-8a~;" vertex="1" parent="1">
+          <mxGeometry x="292" y="2445" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-36" value="Laster inn variabelliste" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=NF5HQP5Ay9mu;" vertex="1" parent="1">
+          <mxGeometry x="283" y="1020" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-37" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;entryX=0.977;entryY=0.5;entryPerimeter=0;lucidId=NF5HOkhijkN3;" edge="1" parent="1" target="LXyVWUYfoo_TBSHkroVp-43">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="638" y="1010" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-38" value="Utlveringsprosjekt" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-37">
+          <mxGeometry x="0.6756244887166247" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-39" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="79" y="865" width="179" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-40" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/5f0ced71-819a-4e7d-98f5-009da8412536/content;lucidId=NF5H8Wqwul_s;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-39">
+          <mxGeometry x="56" width="65" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-41" value="Dataforvalter" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=NF5H.Cnt2dO8;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-39">
+          <mxGeometry y="51" width="179" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-42" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="79" y="979" width="179" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-43" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/5f0ced71-819a-4e7d-98f5-009da8412536/content;lucidId=NF5HxbSFTxQg;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-42">
+          <mxGeometry x="56" width="65" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-44" value="Dataforvalter" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=NF5H0migI8AO;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-42">
+          <mxGeometry y="51" width="179" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-45" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=NF5HVnj9ehD2;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-43" target="LXyVWUYfoo_TBSHkroVp-36">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-46" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;lucidId=NF5HHTyDrfvh;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-36">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="637" y="1081" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-47" value="Variabelliste.xlsx" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-46">
+          <mxGeometry x="0.3762538070685779" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-48" value="Henter skjemasvar" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=NF5H6RYx-XB1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="1369" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-49" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=-0.003;exitY=0.241;exitPerimeter=0;entryX=0.977;entryY=0.5;entryPerimeter=0;lucidId=NF5HGfRhz-Ov;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-29" target="LXyVWUYfoo_TBSHkroVp-52">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-50" value="Utleveringsprosjekt med variabelliste og utvalgs-kriterier" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-49">
+          <mxGeometry x="0.17230283248704548" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-51" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="72" y="1325" width="179" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-52" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/5f0ced71-819a-4e7d-98f5-009da8412536/content;lucidId=NF5H2lKyTjZW;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-51">
+          <mxGeometry x="56" width="65" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-53" value="Dataforvalter" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=NF5HdIkWq5zY;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-51">
+          <mxGeometry y="51" width="179" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-54" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=NF5HSl2OZwdm;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-52" target="LXyVWUYfoo_TBSHkroVp-48">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-55" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=0.011;entryY=0.381;entryPerimeter=0;lucidId=NF5H-x7oLZmE;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-48" target="LXyVWUYfoo_TBSHkroVp-107">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-56" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#f2f2ff;strokeWidth=0.8;lucidId=NF5HJM2o9HtN;" vertex="1" parent="1">
+          <mxGeometry x="639" y="155" width="147" height="333" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-57" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/4dc57a54-5a8c-4f3e-9a33-449280e73353/content;imageAspect=0;lucidId=NF5HoF~H7X9K;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-56">
+          <mxGeometry x="7" y="29" width="131" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-58" value="Søker/velger variabler" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=NF5HE2S0q-ka;" vertex="1" parent="1">
+          <mxGeometry x="301" y="126" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-59" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.889;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=NF5HVcqsf17.;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-65" target="LXyVWUYfoo_TBSHkroVp-58">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-60" value="Databehov" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-59">
+          <mxGeometry x="0.3257967908591961" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-61" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.097;entryPerimeter=0;lucidId=NF5HPrkh72w.;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-58" target="LXyVWUYfoo_TBSHkroVp-56">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-62" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=-0.003;exitY=0.439;exitPerimeter=0;entryX=0.889;entryY=0.5;entryPerimeter=0;lucidId=NF5HhQ34Z0qY;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-56" target="LXyVWUYfoo_TBSHkroVp-68">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-63" value="Variabelliste.xlsx" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-62">
+          <mxGeometry x="0.6566232274579722" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-64" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="138" y="158" width="65" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-65" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://assets.streamlinehq.com/image/private/w_48,h_48,ar_1/f_auto/v1/icons/streamline-freehand-duotone/avatars/geometric-women-professions/geometric-professions-woman-scientist-boimukv2wmrpodcl2itcfe.png?_a=ATO2BAA0;lucidId=NF5HANM-PHhw;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-64">
+          <mxGeometry x="3" width="58" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-66" value="Forsker" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=NF5HDxQViSBW;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-64">
+          <mxGeometry y="54" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-67" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="137" y="272" width="65" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-68" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://assets.streamlinehq.com/image/private/w_48,h_48,ar_1/f_auto/v1/icons/streamline-freehand-duotone/avatars/geometric-women-professions/geometric-professions-woman-scientist-boimukv2wmrpodcl2itcfe.png?_a=ATO2BAA0;lucidId=NF5HRDGzQKvd;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-67">
+          <mxGeometry x="3" width="58" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-69" value="Forsker" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=NF5Hn05e60~7;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-67">
+          <mxGeometry y="54" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-70" value="Skriver søknad om utlevering av data" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=NF5HxR8sh5Dk;" vertex="1" parent="1">
+          <mxGeometry x="301" y="334" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-71" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=NF5HE8S6vm9t;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-69" target="LXyVWUYfoo_TBSHkroVp-70">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-72" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.721;entryPerimeter=0;lucidId=NF5HntwDajG4;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-70" target="LXyVWUYfoo_TBSHkroVp-56">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-73" value="Variabelliste + Søknadskjema" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-74" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="147" y="552" width="57" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-75" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://assets.streamlinehq.com/image/private/w_48,h_48,ar_1/f_auto/v1/icons/streamline-freehand-duotone/avatars/geometric-men-professions/geometric-professions-man-worker-g9wp3221zfo1pd41z9azpuh.png?_a=ATO2BAA0;lucidId=NF5H5c5sLm0V;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-74">
+          <mxGeometry width="57" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-76" value="Saksbehandler" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#cfe4ff;fontStyle=1;align=left;spacing=3.8;verticalAlign=top;strokeColor=none;fillOpacity=0;fillColor=#ffffff;strokeWidth=0;lucidId=NF5HL0qrDbMr;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-74">
+          <mxGeometry x="3" y="63" width="51" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-77" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.001;exitPerimeter=0;entryX=0.75;entryY=0.5;entryPerimeter=0;lucidId=NF5HEj._d~rK;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-56" target="LXyVWUYfoo_TBSHkroVp-75">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="713" y="534" />
+              <mxPoint x="190" y="534" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-78" value="Søknadskjema + Variabelliste" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#979ea8;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-77">
+          <mxGeometry x="0.4735744824268573" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-79" value="Fatter vedtak om utlevering av data" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#979ea8;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=NF5HsCTDqftt;" vertex="1" parent="1">
+          <mxGeometry x="107" y="636" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-80" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.003;exitPerimeter=0;entryX=0.5;entryY=0.042;entryPerimeter=0;lucidId=NF5HmXPys_C3;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-79" target="LXyVWUYfoo_TBSHkroVp-40">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-81" value="Vedtak + Søknadskjema + Variabelliste" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#979ea8;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-80">
+          <mxGeometry x="-0.5027646044482441" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-82" value="Søknadsbehandling (utenfor prosjektscope) " style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#979ea8;align=center;spacing=3.8;strokeColor=none;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;lucidId=NF5HOfYjyfvp;" vertex="1" parent="1">
+          <mxGeometry x="858" y="523" width="273" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-83" value="Forberedelser til søknad om datautlevering" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#4c535d;align=center;spacing=3.8;strokeColor=none;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;lucidId=NF5HDu7PWj~7;" vertex="1" parent="1">
+          <mxGeometry x="863" y="81" width="273" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-84" value="Datauttrekk" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#4c535d;align=center;spacing=3.8;strokeColor=none;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;lucidId=NF5HerCv0JW3;" vertex="1" parent="1">
+          <mxGeometry x="1765" y="826" width="99" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-85" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="113" y="2394" width="179" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-86" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/5f0ced71-819a-4e7d-98f5-009da8412536/content;lucidId=NF5H2qdW8Grm;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-85">
+          <mxGeometry x="56" width="65" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-87" value="Dataforvalter" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=NF5HstMMpwwi;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-85">
+          <mxGeometry y="51" width="179" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-88" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=NF5HlDD5doXw;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-86" target="LXyVWUYfoo_TBSHkroVp-35">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-89" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=-0.001;entryPerimeter=0;lucidId=NF5H.Fnxc7LK;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-35" target="LXyVWUYfoo_TBSHkroVp-109">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-90" value="Genererer fil med datauttrekk " style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=NF5HTcKV~zrQ;container=1;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="648" y="2711" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-91" value="Hvilke nøkler ble brukt for å lagre skjemasvar fra disse deltakerne?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=NF5H5F35d3nY;container=1;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="646" y="1543" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-92" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.387;entryPerimeter=0;lucidId=NF5HQ6PlkbzD;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-107" target="LXyVWUYfoo_TBSHkroVp-27">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-93" value="Skjema-ID&#39;er + utvalgs-kriterier" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-92">
+          <mxGeometry x="0.5645920680303056" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-94" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.004;entryY=0.468;entryPerimeter=0;lucidId=NF5HiNQSYFbB;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-91" target="LXyVWUYfoo_TBSHkroVp-14">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-95" value="Liste med personnummer + prosjektId" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-94">
+          <mxGeometry x="0.47792305895006115" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-96" value="Hva svarte disse deltakerne på disse spørsmålene?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=NF5HiDdTjyAn;container=1;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="648" y="1899" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-97" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;endArrow=block;endFill=1;exitX=1.003;exitY=0.145;exitPerimeter=0;entryX=-0.004;entryY=0.5;entryPerimeter=0;lucidId=NF5HBl~dqFtk;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-141" target="LXyVWUYfoo_TBSHkroVp-23">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-98" value="nøkler + variabler" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-97">
+          <mxGeometry x="0.7257803379668166" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-99" value="Generer nye nøkler for dette uttrekket!" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=NF5HOx8Wr.VE;container=1;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="651" y="2053" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-100" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;endArrow=block;endFill=1;exitX=1.002;exitY=0.538;exitPerimeter=0;entryX=-0.004;entryY=0.504;entryPerimeter=0;lucidId=NF5HYsEZWe8q;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-99" target="LXyVWUYfoo_TBSHkroVp-19">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-101" value="Liste med personnummer" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-100">
+          <mxGeometry x="0.6275559259186854" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-102" value="Hva er metadata for disse variablene? " style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=NF5HxPf3kDKJ;container=1;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="648" y="2210" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-103" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;endArrow=block;endFill=1;exitX=0.986;exitY=0.37;exitPerimeter=0;entryX=0;entryY=0.483;entryPerimeter=0;lucidId=NF5HeC9stdwq;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-102" target="LXyVWUYfoo_TBSHkroVp-28">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-104" value="Variabler" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-103">
+          <mxGeometry x="0.8312200099061933" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-105" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.001;exitPerimeter=0;entryX=0.977;entryY=0.5;entryPerimeter=0;lucidId=NF5H.BS2DlJj;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-141" target="LXyVWUYfoo_TBSHkroVp-86">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-106" value="Kontroll-info om uttrekket" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-105">
+          <mxGeometry x="0.6024153389475786" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-107" value="Hvem har svart på disse skjemaene? " style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=NF5HNZ.Xw8Qx;container=1;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="648" y="1384" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-108" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;spacing=0;strokeColor=#ced4db;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;strokeWidth=0.8;lucidId=NF5HrFwYU_7O;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1373" width="134" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-109" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;spacing=0;strokeColor=#ced4db;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;strokeWidth=0.8;lucidId=NF5HAeNN0PZi;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2547" width="134" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-110" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="113" y="2741" width="179" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-111" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/5f0ced71-819a-4e7d-98f5-009da8412536/content;lucidId=NF5HzmsF~58e;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-110">
+          <mxGeometry x="56" width="65" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-112" value="Dataforvalter" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=NF5H~St3r7AB;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-110">
+          <mxGeometry y="51" width="179" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-113" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=-0.003;exitY=0.5;exitPerimeter=0;entryX=0.818;entryY=0.5;entryPerimeter=0;lucidId=NF5H88_xhhSX;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-90" target="LXyVWUYfoo_TBSHkroVp-111">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-114" value="Datauttrekket.sas" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-113">
+          <mxGeometry x="0.673299600730564" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-115" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="386" y="3085" width="65" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-116" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://assets.streamlinehq.com/image/private/w_48,h_48,ar_1/f_auto/v1/icons/streamline-freehand-duotone/avatars/geometric-women-professions/geometric-professions-woman-scientist-boimukv2wmrpodcl2itcfe.png?_a=ATO2BAA0;lucidId=NF5HY6yLtSuP;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-115">
+          <mxGeometry x="3" width="58" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-117" value="Forsker" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#6db1ff;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=NF5H4EG9_0g-;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-115">
+          <mxGeometry y="54" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-118" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#979ea8;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.003;exitPerimeter=0;entryX=0.336;entryY=0.5;entryPerimeter=0;lucidId=NF5HyqHI-7gk;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-11" target="LXyVWUYfoo_TBSHkroVp-116">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-119" value="Datauttrekket.sas" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#979ea8;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-118">
+          <mxGeometry x="0.1992129745722393" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-120" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#979ea8;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.519;exitY=1;exitPerimeter=0;entryX=0.5;entryY=-0.003;entryPerimeter=0;lucidId=NF5HpXKRIwd9;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-111" target="LXyVWUYfoo_TBSHkroVp-11">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-121" value="Datautlevering utenfor prosjektscope)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#979ea8;align=center;spacing=3.8;strokeColor=none;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;lucidId=NF5Hopfc8XuH;" vertex="1" parent="1">
+          <mxGeometry x="891" y="2895" width="245" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-122" value="Deltakerliste med personnummer" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#333333;align=left;spacing=3.8;verticalAlign=top;strokeColor=none;fillOpacity=0;fillColor=#ffffff;strokeWidth=0;lucidId=NF5HaeozuVgo;" vertex="1" parent="1">
+          <mxGeometry x="785" y="1446" width="206" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-123" value="Liste med prosjektspesifikke nøkler" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#333333;align=left;spacing=3.8;verticalAlign=top;strokeColor=none;fillOpacity=0;fillColor=#ffffff;strokeWidth=0;lucidId=NF5HYivq7H~-;" vertex="1" parent="1">
+          <mxGeometry x="785" y="1609" width="217" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-124" value="Skjemasvar" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#333333;align=left;spacing=3.8;verticalAlign=top;strokeColor=none;fillOpacity=0;fillColor=#ffffff;strokeWidth=0;lucidId=NF5HWYBmJ1Et;" vertex="1" parent="1">
+          <mxGeometry x="785" y="1969" width="78" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-125" value="Metadata (spørsmålstekst, svaralternativ etc.)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#333333;align=left;spacing=3.8;verticalAlign=top;strokeColor=none;fillOpacity=0;fillColor=#ffffff;strokeWidth=0;lucidId=NF5H5BHnzS.2;" vertex="1" parent="1">
+          <mxGeometry x="785" y="2260" width="280" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-126" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="74" y="1663" width="179" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-127" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/5f0ced71-819a-4e7d-98f5-009da8412536/content;lucidId=KJ5H6OxFyfbO;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-126">
+          <mxGeometry x="56" width="65" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-128" value="Dataforvalter" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=KJ5HRABWyoTI;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-126">
+          <mxGeometry y="51" width="179" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-129" value="Tilpasser utvalge av deltakere" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=1K5HAMy7s3BP;" vertex="1" parent="1">
+          <mxGeometry x="283" y="1742" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-130" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=_K5H-SHo-ERg;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-127" target="LXyVWUYfoo_TBSHkroVp-129">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-131" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=TL5HAApgj4mf;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-129" target="LXyVWUYfoo_TBSHkroVp-132">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-132" value="Kjør SQL-spørring" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=KO5Hdy2CW_VE;container=1;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="646" y="1742" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-133" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontFamily=Aller;fontColor=#1071e5;fontStyle=1;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#edf5ff;strokeWidth=0.8;lucidId=ZP5HJBdvBYLh;" vertex="1" parent="1">
+          <mxGeometry x="1261" y="1697" width="98" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-134" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/489b27bb-14c3-4a00-80f2-0de140884c8b/content;lucidId=ZP5HBRQb9bXb;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-133">
+          <mxGeometry x="30" y="77" width="38" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-135" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/78f315e0-aff2-4141-9fc5-e8708625da5f/content;lucidId=ZP5HCeMVuy2C;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-133">
+          <mxGeometry x="30" y="31" width="38" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-136" value="Skjemasvar" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontFamily=Aller;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=NF5HuR-PDx6R;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-133">
+          <mxGeometry x="17" y="9" width="64" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-137" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;endArrow=block;endFill=1;exitX=1.002;exitY=0.465;exitPerimeter=0;entryX=-0.004;entryY=0.779;entryPerimeter=0;lucidId=hQ5HrAZcaawC;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-132" target="LXyVWUYfoo_TBSHkroVp-133">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-138" value="nøkler + SQL-spørring" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-137">
+          <mxGeometry x="0.6744483927072802" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-139" value="Begrenset liste med prosjektspesifikke nøkler" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-137">
+          <mxGeometry x="-0.36853136183594115" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-140" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.mscae.general.continuous_cycle;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#979ea8;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=915H5efOVI-1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="1736" width="51" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-141" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;spacing=0;strokeColor=#ced4db;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#000000;strokeWidth=0.8;lucidId=2O5HrbZ.7isq;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1892" width="134" height="469" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-142" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=-0.003;exitPerimeter=0;lucidId=O-5H3GXa~zEd;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-132" target="LXyVWUYfoo_TBSHkroVp-127">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="707" y="1694" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-143" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.003;exitPerimeter=0;entryX=0.977;entryY=0.5;entryPerimeter=0;lucidId=u_5HfkuSYTTp;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-91" target="LXyVWUYfoo_TBSHkroVp-127">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-144" value="(tilpasset) deltakerliste" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-143">
+          <mxGeometry x="0.6133147229424254" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-145" value="Legger inn utvalgs-kriterier" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=6a6HRbPu~Ql5;" vertex="1" parent="1">
+          <mxGeometry x="283" y="1189" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-146" value="" style="group;dropTarget=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1144" width="179" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-147" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/5f0ced71-819a-4e7d-98f5-009da8412536/content;lucidId=ee6HFmGBh2YU;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-146">
+          <mxGeometry x="56" width="65" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-148" value="Dataforvalter" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.8;fontColor=#1071e5;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0.8;lucidId=ee6HZanLT2kv;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-146">
+          <mxGeometry y="52" width="179" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-149" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=-0.003;exitY=0.15;exitPerimeter=0;entryX=0.977;entryY=0.5;entryPerimeter=0;lucidId=re6H6zChAuN-;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-29" target="LXyVWUYfoo_TBSHkroVp-147">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-150" value=" " style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=default;fontSize=16;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-149">
+          <mxGeometry x="0.6162202358934705" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-151" value="Utleveringsprosjekt med variabelliste" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="LXyVWUYfoo_TBSHkroVp-149">
+          <mxGeometry x="0.4353649912737254" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-152" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=Pe6He9O-r4RG;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-147" target="LXyVWUYfoo_TBSHkroVp-145">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-153" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.188;entryPerimeter=0;lucidId=4e6Hbu8CJGGU;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-145" target="LXyVWUYfoo_TBSHkroVp-29">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-154" value="Godkjenner utvalg av deltakere" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fff0f0;strokeWidth=0.8;lucidId=Il6Hek0i_5H~;" vertex="1" parent="1">
+          <mxGeometry x="283" y="1899" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-155" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=on6HYi~OAjFZ;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-127" target="LXyVWUYfoo_TBSHkroVp-154">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-156" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=Sp6HLMV6NRfu;" edge="1" parent="1" source="LXyVWUYfoo_TBSHkroVp-154" target="LXyVWUYfoo_TBSHkroVp-96">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-157" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/489b27bb-14c3-4a00-80f2-0de140884c8b/content;lucidId=kr2Jl4EZZ7hG;" vertex="1" parent="1">
+          <mxGeometry x="711" y="1004" width="37" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LXyVWUYfoo_TBSHkroVp-158" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=0;image=https://images.lucid.app/images/78f315e0-aff2-4141-9fc5-e8708625da5f/content;lucidId=kr2Jqy54xXXh;" vertex="1" parent="1">
+          <mxGeometry x="676" y="1003" width="35" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
